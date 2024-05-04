@@ -15,8 +15,8 @@ body{
 }
 .content{
 	margin: auto;
-	width: 1400px;
-	height: 1200px;
+	width: 80vw;
+	height: 100vh;
 	background-color: #100020;
 	position: relative;
 	background-image: url('https://res.cloudinary.com/yerevan/image/upload/v1484080037/space_xref1i.jpg');
